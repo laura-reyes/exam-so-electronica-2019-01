@@ -29,12 +29,12 @@ x = 1250, y = 350 y z = 25
 Además se define una variable global (v). El hilo 1 hará la operación de división z/y y la guardará en la variable v. El hilo 2 ejecutará la función sleep(2) y luego llevará a cabo la operación de x*v.
 
 
-##Pregunta 3
+## Pregunta 3
 
 Se crea un programa donde el proceso hijo debe esperar a que el proceso padre termine su ejecución mediante la función wait.
 
 
-##Pregunta 4
+## Pregunta 4
 
 1. El porcentaje del tiempo que la cpu está en uso es del 100% para el caso que se pregunta dado que se especifica para ambos procesos que estarán corriendo con el 100% de probabilidad de que sea la cpu que esté ocupada procesando las instrucciones de los programas.
 
